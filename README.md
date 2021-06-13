@@ -8,4 +8,4 @@ Wiring Diagrams(which were very professionally done btw)
 and eventually the files for the board itself.
 
 
-thank you to everyone who helped me learn how to use arduino format, and to thos ethat have been egging me on. Hopefully this helps things out.
+thank you to everyone who helped me learn how to use arduino format, and to those that have been egging me on. Hopefully this helps things out.
